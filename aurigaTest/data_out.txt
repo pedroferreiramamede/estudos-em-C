@@ -1,0 +1,64 @@
+Type: 1
+Initial Length: 16
+Initial Data Bytes: 0123456789ABCDEF
+Initial CRC-32: 983C37B5
+Modified Length: 16
+Modified Data Bytes with Mask: 3031323334353637
+Modified CRC-32: 03F53597
+
+Type: 2
+Initial Length: 16
+Initial Data Bytes: FEDCBA9876543210
+Initial CRC-32: 9BB3A3B1
+Modified Length: 16
+Modified Data Bytes with Mask: 4645444342413938
+Modified CRC-32: 04B2DCD9
+
+Type: 1
+Initial Length: 16
+Initial Data Bytes: 0123456789ABCDEF
+Initial CRC-32: 983C37B5
+Modified Length: 16
+Modified Data Bytes with Mask: 3031323334353637
+Modified CRC-32: 03F53597
+
+Type: 2
+Initial Length: 16
+Initial Data Bytes: FEDCBA9876543210
+Initial CRC-32: 9BB3A3B1
+Modified Length: 16
+Modified Data Bytes with Mask: 4645444342413938
+Modified CRC-32: 04B2DCD9
+
+Type: 1
+Initial Length: 16
+Initial Data Bytes: 0123456789ABCDEF
+Initial CRC-32: 983C37B5
+Modified Length: 16
+Modified Data Bytes with Mask: 3031323334353637
+Modified CRC-32: 03F53597
+
+Type: 2
+Initial Length: 16
+Initial Data Bytes: FEDCBA9876543210
+Initial CRC-32: 9BB3A3B1
+Modified Length: 16
+Modified Data Bytes with Mask: 4645444342413938
+Modified CRC-32: 04B2DCD9
+
+Type: 1
+Initial Length: 16
+Initial Data Bytes: 0123456789ABCDEF
+Initial CRC-32: 983C37B5
+Modified Length: 16
+Modified Data Bytes with Mask: 3031323334353637
+Modified CRC-32: 03F53597
+
+Type: 2
+Initial Length: 16
+Initial Data Bytes: FEDCBA9876543210
+Initial CRC-32: 9BB3A3B1
+Modified Length: 16
+Modified Data Bytes with Mask: 4645444342413938
+Modified CRC-32: 04B2DCD9
+
